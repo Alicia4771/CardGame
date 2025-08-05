@@ -169,22 +169,22 @@
 
 /* チュートリアルの背景画像 */
 .tutorial_1 {
-    background-image: url(../slid_ill/slid.png);
+    background-image: url(../tutorialSlidIll/slid.png);
     background-position: center;
     background-size: cover;
 }
 .tutorial_2 {
-    background-image: url(../slid_ill/slid02.png);
+    background-image: url(../tutorialSlidIll/slid02.png);
     background-position: center;
     background-size: cover;
 }
 .tutorial_3 {
-    background-image: url(../slid_ill/slid03.png);
+    background-image: url(../tutorialSlidIll/slid03.png);
     background-position: center;
     background-size: cover;
 }
 .tutorial_4 {
-    background-image: url(../slid_ill/slid04.png);
+    background-image: url(../tutorialSlidIll/slid04.png);
     background-position: center;
     background-size: cover;
 }
@@ -194,17 +194,17 @@
     background-size: cover;
 }
 .tutorial_6 {
-    background-image: url(../slid_ill/slid06.png);
+    background-image: url(../tutorialSlidIll/slid06.png);
     background-position: center;
     background-size: cover;
 }
 .tutorial_7 {
-    background-image: url(../slid_ill/slid07.png);
+    background-image: url(../tutorialSlidIll/slid07.png);
     background-position: center;
     background-size: cover;
 }
 .tutorial_8 {
-    background-image: url(../slid_ill/slid08.png);
+    background-image: url(../tutorialSlidIll/slid08.png);
     background-position: center;
     background-size: cover;
 }
